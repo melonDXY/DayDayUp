@@ -16,6 +16,7 @@ public class Sloution {
 		String s = s1 + " " + s2;
 		String[] sList = s.split(" ");
 		for(String word : sList){
+			// map函数getOrDefault(p1,p0)，在map中查找是否存在key等于p1，存在则返回对应的value，不存在则返回p0
 			freq.put(word, freq.getOrDefault(word, 0) + 1);
 		}
 		
