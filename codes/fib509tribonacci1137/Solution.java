@@ -49,5 +49,6 @@ public class Solution {
 	public static void main(String[] args) {
 		Solution solution = new Solution();
 		System.out.println(solution.getTribonacci(5));
+		System.out.println(solution.getFib(5));
 }
 }
