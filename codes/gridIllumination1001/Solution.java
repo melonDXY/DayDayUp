@@ -8,6 +8,7 @@ import java.util.Map;
 import java.util.Set;
 
 class Solution {
+	//网格照明：1.熄灯是指熄灭有灯泡的位置，并不是有光的位置。2.对角线指灯泡照亮的对角线。3灯亮数据通过哈希表压缩存储高搞清楚对角线的存储。
     public int[] gridIllumination(int n, int[][] lamps, int[][] queries) {
     	int[] ans = new int[queries.length]; //要记录每次查询结果，长度为需要查询的次数
     	//用四个HashMap存储光亮情况，因为数据是稀疏的，只存储有效点节省空间
