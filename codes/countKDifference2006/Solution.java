@@ -23,6 +23,7 @@ public class Solution {
 	}
 	
 	//使用哈希表减少内存损耗（并没有减少）
+	// 可以试试看只遍历一次，一边添加元素一边进行计算。 因为 a + k = b 则 b - k = a 并不会出现遗漏
 	public int countKDifferenceHash(int[] nums, int k){
 		int ans = 0;
 		Map<Integer, Integer> butt = new HashMap<Integer,Integer>();
