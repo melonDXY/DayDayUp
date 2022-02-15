@@ -1,4 +1,4 @@
-package codes.MinDifferenceStudent1984;
+package codes.DayDayUp.codes.MinDifferenceStudent1984;
 
 import java.util.Arrays;
 
