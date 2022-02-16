@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.fib509tribonacci1137;
+package codes.fib509tribonacci1137;
 
 
 public class Solution {

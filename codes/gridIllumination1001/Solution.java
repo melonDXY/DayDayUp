@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.gridIllumination1001;
+package codes.gridIllumination1001;
 
 
 import java.util.Arrays;

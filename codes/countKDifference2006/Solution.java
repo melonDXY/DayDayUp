@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.countKDifference2006;
+package codes.countKDifference2006;
 
 import java.util.HashMap;
 import java.util.Map;

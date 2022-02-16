@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.LuckyNumbers1380;
+package codes.LuckyNumbers1380;
 
 import java.util.ArrayList;
 import java.util.Arrays;

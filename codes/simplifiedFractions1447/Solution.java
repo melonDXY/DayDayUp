@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.simplifiedFractions1447;
+package codes.simplifiedFractions1447;
 
 import java.util.List;import java.lang.reflect.GenericDeclaration;
 import java.util.ArrayList;

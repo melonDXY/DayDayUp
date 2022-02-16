@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.longestDiverseString1405;
+package codes.longestDiverseString1405;
 
 import java.util.Arrays;
 

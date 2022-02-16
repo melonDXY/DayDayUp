@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.reversePrefix2000;
+package codes.reversePrefix2000;
 
 public class ReversePrefix{
 

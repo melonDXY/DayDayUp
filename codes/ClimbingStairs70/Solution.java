@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.ClimbingStairs70;
+package codes.ClimbingStairs70;
 
 public class Solution {
 	

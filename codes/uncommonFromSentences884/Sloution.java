@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.uncommonFromSentences884;
+package codes.uncommonFromSentences884;
 
 import java.util.List;
 import java.util.ArrayList;

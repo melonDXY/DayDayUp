@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.sumOfUnique1748;
+package codes.sumOfUnique1748;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.SingleNonDuplicate;
+package codes.SingleNonDuplicate;
 
 public class Solution {
 	

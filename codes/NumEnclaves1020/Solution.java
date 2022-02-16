@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.NumEnclaves1020;
+package codes.NumEnclaves1020;
 
 public class Solution {
 	private static int[][] dirs = {{-1,0},{0,1},{1,0},{0,-1}};
