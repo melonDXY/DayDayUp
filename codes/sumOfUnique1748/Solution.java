@@ -6,11 +6,10 @@ import java.util.Map;
 public class Solution {
 	
 	private int[] data = {2,3,1,3,4,5};
-	private int ans;
 
 	public Solution() {
 		// TODO Auto-generated constructor stub
-		this.ans = 0;
+		
 	}
 	
 	private int hashSolution(int[] nums) {
@@ -50,7 +49,7 @@ public class Solution {
 		// TODO Auto-generated method stub
 		Solution solution = new Solution();
 		System.out.println(solution.ButtSoltion(solution.data));
-		
+		System.out.println(solution.hashSolution(solution.data));
 
 	}
 

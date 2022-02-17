@@ -1,6 +1,6 @@
 package codes.simplifiedFractions1447;
 
-import java.util.List;import java.lang.reflect.GenericDeclaration;
+import java.util.List;
 import java.util.ArrayList;
 
 public class Solution {
