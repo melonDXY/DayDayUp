@@ -1,4 +1,4 @@
-package codes.DayDayUp.codes.ComplexNumberMultiply537;
+package codes.ComplexNumberMultiply537;
 
 public class Solution{
     public String complexNumberMultiply(String num1, String num2) {
