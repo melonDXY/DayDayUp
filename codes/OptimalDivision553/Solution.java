@@ -1,6 +1,7 @@
 package codes.OptimalDivision553;
 
 public class Solution {
+    //(当数组长度大于2时，出第一位后面的括起来连除）
     public String optimalDivision(int[] nums) {
         int numsLen = nums.length;
         StringBuilder ans = new StringBuilder();
