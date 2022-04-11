@@ -1,7 +1,5 @@
 package codes.AddTwoNumbers025;
 
-import java.util.*;
-
 
 class ListNode {
    int val;
@@ -55,7 +53,7 @@ public class Solution {
         return Integer.parseInt(str);
     }
 
-    
+
 
     public static void main(String[] args) {
         int num = 1234;
