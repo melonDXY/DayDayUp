@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Solution {
-    
+    //给你两个整数 left 和 right ，在闭区间 [left, right] 范围内，统计并返回 计算置位位数为质数 的整数个数。
     public int countPrimeSetBits(int left, int right) {
         int ans = 0;
         List<Integer> primeList = new ArrayList<>();
