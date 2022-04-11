@@ -9,6 +9,13 @@
  *     }
  * }
  */
+class ListNode {
+    int val;
+    ListNode next = null;
+    public ListNode(int val) {
+    this.val = val;
+   }
+ }
 public class Solution {
     public boolean hasCycle(ListNode head) {
         if (head == null) return false;
@@ -17,6 +24,7 @@ public class Solution {
         while(p2 != null) {
             if (p1.next == p2.next) {
                 return true;
+                
             }
             p2 = p2.next;
             if (p2 == null) return false;

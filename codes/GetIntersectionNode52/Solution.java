@@ -9,6 +9,13 @@ public class ListNode {
         this.val = val;
     }
 }*/
+class ListNode {
+    int val;
+    ListNode next = null;
+    public ListNode(int val) {
+    this.val = val;
+   }
+ }
 public class Solution {
     public ListNode FindFirstCommonNode(ListNode pHead1, ListNode pHead2) {
         ListNode point1 = pHead1;
