@@ -32,13 +32,12 @@ public class Solution {
         while (cur != null){
             if (pre.val == cur.val){
                 pre.next = cur.next;
-                cur = cur.next;
             }
-            if (cur == null){
-                return head;
+            else{
+                pre = pre.next;
             }
-            pre = pre.next;
             cur = cur.next;
+
         }
 
         return head;
